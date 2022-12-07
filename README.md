@@ -11,16 +11,6 @@ You can click the Preview link to take a look at your changes.
 My Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python
-blender,
-github,
-c,
-linux,
-django,
-html,
-css,
-linkedin,
-mysql,
-wordpress" />
+    <img src="https://skillicons.dev/icons?i=git,python,blender,github,c,linux,django,html,css,linkedin,mysql,wordpress" />
   </a>
 </p>
