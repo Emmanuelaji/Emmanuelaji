@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Emmanuelaji
 - 👀 I’m interested in ...Programming, Networking and Cyber Security
-- 🌱 I’m currently learning ... Programming and Cyber Security
+- 🌱 I’m currently learning ... Full Stack Developer | Cyber Security
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... emmanuelaji32@gmail.com
 
