@@ -5,7 +5,7 @@
   </p>
 
   <p>
-    Building secure, scalable web applications and passionate about creating impactful tech solutions.
+    Building secure, scalable web applications and passionate about impactful tech solutions.
   </p>
 
   <p>
@@ -18,7 +18,7 @@
   </p>
 </div>
 
-<!-- GitHub Stats Card -->
+<!-- GitHub Stats -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Emmanuelaji&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Emmanuelaji's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emmanuelaji&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
@@ -30,32 +30,38 @@
 
 ---
 
-### 🌱 Currently Learning & Improving
+### 🌱 Currently Exploring & Improving
 - Advanced TypeScript & Next.js  
-- FastAPI & modern Python API design  
-- Docker, container orchestration & CI/CD  
-- Web3 basics & on-chain development  
+- FastAPI & modern Python APIs  
+- Docker / container orchestration  
+- Web3 & on-chain basics  
 
-### 💼 Key Projects & Experience
-- Built & deployed full-stack Django applications (REST APIs, authentication, real-time features)  
-- Reduced processing time by 30% on a production inventory system for private clients  
-- Hands-on with PostgreSQL query optimization, Redis caching, and secure deployments  
-- Cybersecurity fundamentals (threat detection, firewalls, secure coding practices)  
+### 💼 What I've Built
+- Full-stack Django apps (REST APIs, auth, real-time features)  
+- Inventory system → reduced processing time by 30% for clients  
+- PostgreSQL optimization, Redis caching, secure deployments  
+- Cybersecurity fundamentals (threat detection, firewalls, secure code)
 
-### 🛠️ My Tech Stack
+### 🛠️ Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,html,css,js,ts,react,nextjs,postgres,mysql,redis,docker,linux,git,github,postman" />
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,js,ts,html,css,bootstrap,react,nextjs,nodejs,nestjs,postgres,mysql,redis,docker,linux,git,github,aws,azure,postman,vscode" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nginx,ubuntu,figma,wordpress,cybersecurity" />
   </a>
 </p>
 
 ### 📫 Let's Connect
 - **Email:** emmanuelaji32@gmail.com  
 - **LinkedIn:** [linkedin.com/in/emmanuelajiaagbo](https://www.linkedin.com/in/emmanuelajiaagbo/)  
-- **Open to:** Collaborations on open-source projects, freelance opportunities, or interesting startup ideas in web development, cybersecurity, or education/fintech/healthtech.
+- **Open to:** Open-source collabs, freelance, or startup ideas in web dev, cybersecurity, edtech, fintech, healthtech
 
-Feel free to reach out — I’m always happy to chat code, security, or career paths in tech!
+Feel free to reach out — always happy to talk code, security, or tech careers!
 
 ---
 
